@@ -1,9 +1,9 @@
 /*============================================================================*/
-/* Name        : KolkoIKrzyzyk.cpp									                    		  */
-/* Author      : Robert														                            */
-/* Version     : 1.0.0 alpha												                          */
-/* Copyright   : Your copyright notice								                  		  */
-/* Description : Kolko i krzyzyk in C++, Ansi-style				            			  */
+/* Name        : KolkoIKrzyzyk.cpp	                       		      */
+/* Author      : Robert							      */
+/* Version     : 1.0.0 alpha						      */
+/* Copyright   : Your copyright notice			 		      */
+/* Description : Kolko i krzyzyk in C++, Ansi-style			      */
 /*============================================================================*/
 
 #include <iostream>
